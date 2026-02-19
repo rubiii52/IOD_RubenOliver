@@ -448,7 +448,7 @@ GameObject:
   m_Component:
   - component: {fileID: 509886023004518287}
   m_Layer: 0
-  m_Name: Mascota
+  m_Name: Pet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
