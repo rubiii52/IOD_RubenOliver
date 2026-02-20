@@ -56,6 +56,14 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: dea167fc0f172544abe246fab4f1af26, type: 2}
+    - target: {fileID: 2443778204678824519, guid: a19b606fc6c9a674d9797ceee9a58f58, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ceec5fe80090e494090e0186144c2288, type: 2}
+    - target: {fileID: 2495949680267634726, guid: a19b606fc6c9a674d9797ceee9a58f58, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ceec5fe80090e494090e0186144c2288, type: 2}
     - target: {fileID: 6339628283626563311, guid: a19b606fc6c9a674d9797ceee9a58f58, type: 3}
       propertyPath: m_Name
       value: Pet_gray
